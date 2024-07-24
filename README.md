@@ -41,4 +41,4 @@ The interface is divided into two main areas:
 
 ## Purpose
 
-This tool was developed to complement the usage of a labeling tool available [here](https://github.com/yatengLG/ISAT_with_segment_anything). This labeling tool - based on SAM and SAM-Med2D - lacked the ability to import .nii.gz files and export annotations into .nii.gz files, so this tool was created to enable the use of medical images with that labeling tool.
+This tool was developed to complement the usage of a labeling tool available [here](https://github.com/yatengLG/ISAT_with_segment_anything), called ISAT_with_segment_anything. This labeling tool - based on SAM and SAM-Med2D - lacked the ability to import .nii.gz files and export annotations into .nii.gz files, so this tool was created to enable the use of medical images with that labeling tool.
