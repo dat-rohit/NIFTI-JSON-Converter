@@ -1,4 +1,4 @@
-# NIFTI-JSON-Convert
+# NIFTI-JSON-Converter
 
 A simple Python GUI application to import `.nii.gz` medical images and convert them into JPG format, as well as import mask annotations in JSON format and convert them into `.nii.gz`.
 
